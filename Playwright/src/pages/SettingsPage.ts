@@ -72,6 +72,7 @@ export class SettingsPage {
    * 6. Retrieve and verify the 'Is Active' cell value using the generated bed number.
    */
   async captureInventoryRequisitionSection() {
+    return -1;
   }
 
   /**
