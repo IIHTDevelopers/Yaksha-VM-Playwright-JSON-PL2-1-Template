@@ -58,5 +58,6 @@ export default class AppointmentPage {
    * 6. Capture and return the hospital number and phone number for verification.
    */
   async verifyAppointmentStatusChangeAfterInvoicePrint() {
+    return "";
   }
 }
