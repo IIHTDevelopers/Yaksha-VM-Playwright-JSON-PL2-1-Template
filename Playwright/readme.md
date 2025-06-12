@@ -1,6 +1,6 @@
 **Install Dependencies**
     Install all required npm packages for Playwright and other dependencies.
-    ```npm install --no-bin-links --unsafe-perm```
+    ```npm install```
 
 **Install Playwright Browsers**
     Playwright requires specific browser binaries. You can install them by running:
